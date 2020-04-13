@@ -1,0 +1,18 @@
+Elizabeth Bennet, Elizabeth
+Mr Fitzwilliam Darcy, Mr Darcy
+Mr Bennet
+Mrs Bennet
+Jane Bennet, Jane
+Mary Bennet, Mary
+Catherine "Kitty" Bennet, Kitty, Catherine, Catherine Bennet, Kitty Bennet
+Lydia Bennet, Lydia
+Charles Bingley, Charles
+Caroline Bingley, Caroline
+George Wickham, George
+Mr William Collins, Mr Collins, William
+Lady Catherine de Bourgh, Lady de Bourgh
+Mr Edward Gardiner, Edward, Mr Gardiner
+Mrs M Gardiner, Mrs Gardiner
+Georgiana Darcy, Georgiana
+Charlotte Lucas, Charlotte
+Colonel Fitzwilliam
