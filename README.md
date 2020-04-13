@@ -6,4 +6,4 @@ Please note that I have truncated the nodes/edges tsv files to increase your run
 
 Nodes/edges data comes from the China Biographical Database
 
-The Pride and Prejudice text comes from projectgutenberg.org, and the names list from Wikipedia.
+The Pride and Prejudice text comes from gutenberg.org, and the names list from Wikipedia.
